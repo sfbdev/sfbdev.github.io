@@ -17,6 +17,14 @@
       font-family: 'Roboto', sans-serif;
     }
 
+    .furkan {
+      display: flex;
+      position: absolute;
+      left: 0;
+      top: 0;
+      color: black;
+    }
+
     .content {
       height: 100vh;
       display: flex;
@@ -52,14 +60,16 @@
       height: 48px;
     }
 
-    .content span, a {
+    .content span,
+    a {
       color: #ffffff;
       font-size: 16px;
       font-weight: 500;
       margin-bottom: 4px;
     }
 
-    .content span:hover, a:hover{
+    .content span:hover,
+    a:hover {
       cursor: pointer;
       color: rgb(153, 153, 153);
     }
@@ -68,6 +78,9 @@
 
 <body>
   <div class="content">
+    <a class="furkan" href="https://sfb.dev?code=furkantest">
+      test
+    </a>
     <div class="cart">
       <span>Şefik Furkan Bayram</span>
       <span> Front-end Developer</span>
