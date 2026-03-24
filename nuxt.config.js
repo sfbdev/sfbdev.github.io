@@ -1,5 +1,6 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-03-24',
+  future: { compatibilityVersion: 4 },
   modules: ['@nuxt/content'],
   app: {
     head: {
@@ -21,6 +22,9 @@ export default defineNuxtConfig({
     }
   },
   nitro: {
-    preset: 'static'
+    preset: 'static',
+    output: {
+      publicDir: 'dist'
+    }
   }
 })
