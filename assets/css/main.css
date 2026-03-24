@@ -27,7 +27,7 @@ body {
   background: var(--bg);
   color: var(--fg);
   line-height: 1.6;
-  max-width: 640px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
@@ -121,6 +121,18 @@ blockquote {
 
 .post-list .post-date {
   margin-right: 0.5rem;
+}
+
+.lang-switch {
+  float: right;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.lang-switch:hover {
+  text-decoration: underline;
+  opacity: 1;
 }
 
 footer {

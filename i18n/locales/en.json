@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "home",
+    "blog": "blog",
+    "about": "about"
+  },
+  "home": {
+    "greeting": "hi, i'm furkan.",
+    "intro": "senior front-end developer with 8+ years of experience. i write about frontend architecture, JavaScript internals, and the Vue ecosystem.",
+    "recentPosts": "recent posts",
+    "noPosts": "no posts yet."
+  },
+  "blog": {
+    "title": "blog",
+    "noPosts": "no posts yet."
+  },
+  "about": {
+    "title": "about",
+    "bio1": "I'm Furkan — a senior front-end developer based in Istanbul with 8+ years of experience building production-grade web applications across fintech, travel, e-commerce, and foodtech.",
+    "bio2": "I specialize in frontend architecture, large-scale migrations (Vue 2 → 3), and building codebases that scale with growing teams. Deep in the Vue.js ecosystem — Vue 2/3, Nuxt.js, Pinia — with cross-framework fluency in React. I've worked with distributed teams across Canada, Latin America, Estonia, and Turkey.",
+    "bio3": "Currently leading the frontend modernization at AGRA Fintech. Previously architected B2B booking integrations at Tatil.com (5M+ monthly visitors), built operations platforms at KBOX Global, and delivered e-commerce solutions for L'Oréal brands at Alegra Digital.",
+    "bio4": "Outside of work, I ship indie mobile apps under Hexify — handling everything from product design to App Store publishing.",
+    "contact": "get in touch"
+  },
+  "footer": "© {year} sfb.dev"
+}

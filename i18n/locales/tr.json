@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "ana sayfa",
+    "blog": "blog",
+    "about": "hakkımda"
+  },
+  "home": {
+    "greeting": "merhaba, ben furkan.",
+    "intro": "8+ yıl deneyimli senior front-end developer. frontend mimarisi, JavaScript'in derinlikleri ve Vue ekosistemi hakkında yazıyorum.",
+    "recentPosts": "son yazılar",
+    "noPosts": "henüz yazı yok."
+  },
+  "blog": {
+    "title": "blog",
+    "noPosts": "henüz yazı yok."
+  },
+  "about": {
+    "title": "hakkımda",
+    "bio1": "Ben Furkan — İstanbul'da yaşayan, fintech, seyahat, e-ticaret ve foodtech sektörlerinde 8+ yıl deneyime sahip senior front-end developer.",
+    "bio2": "Frontend mimarisi, büyük ölçekli göçler (Vue 2 → 3) ve büyüyen ekiplerle ölçeklenen kod tabanları oluşturma konularında uzmanım. Vue.js ekosisteminin derinliklerindeyim — Vue 2/3, Nuxt.js, Pinia — ve React ile de üretken çalışıyorum. Kanada, Latin Amerika, Estonya ve Türkiye'de dağıtık ekiplerle çalıştım.",
+    "bio3": "Şu anda AGRA Fintech'te frontend modernizasyonunu yönetiyorum. Daha önce Tatil.com'da (aylık 5M+ ziyaretçi) B2B booking entegrasyonları, KBOX Global'de operasyon platformları ve Alegra Digital'de L'Oréal markaları için e-ticaret çözümleri geliştirdim.",
+    "bio4": "İş dışında Hexify markası altında bağımsız mobil uygulamalar geliştiriyorum — ürün tasarımından App Store yayınına kadar her şeyi kendim yapıyorum.",
+    "contact": "iletişim"
+  },
+  "footer": "© {year} sfb.dev"
+}
